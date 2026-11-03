@@ -1,6 +1,6 @@
 # ER status and positive nodes in SEER vs METABRIC: a Bayesian comparison
 
-Course project for STA510 Bayesian statistical methods (University of Gothenburg / Chalmers).
+Course project for STA510 Bayesian statistical methods (University of Gothenburg).
 
 ## Question
 

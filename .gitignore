@@ -1,0 +1,25 @@
+# raw data: download separately (see data/README.md)
+data/*
+!data/README.md
+
+# R / brms / Stan
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+*.Rout
+fit_*
+*.stan
+*.csv.tmp
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.synctex.gz
+
+# archives
+*.zip
